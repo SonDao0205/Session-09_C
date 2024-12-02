@@ -121,7 +121,8 @@ int main(){
                 }
             }
             printf("Dong co tong lon nhat la dong %d.\n",rowIndex+1);
-            
+            break;
+        case 8:
             break;
         default:
             printf("Khong hop le!!Nhap lai!\n");
